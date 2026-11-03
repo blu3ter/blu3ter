@@ -87,10 +87,8 @@ Sono **Simone Catenaccio**, laureando in Informatica presso l'Università degli 
 </details>
 
 ---
-
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=blu3ter&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blu3ter&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=blu3ter&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
