@@ -86,9 +86,3 @@ Sono **Simone Catenaccio**, laureando in Informatica presso l'Università degli 
 📫 **Contatti:** [simonecatenaccio.com](https://simonecatenaccio.com) | [contact@simonecatenaccio.com](mailto:contact@simonecatenaccio.com)
 </details>
 
----
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=blu3ter&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
